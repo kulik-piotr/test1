@@ -42,5 +42,9 @@ public class StreamsJava8 {
 		long l = 123;
 		assertTrue(i == l);
 	}
+	
+	public void test3() {
+		//
+	}
 
 }
